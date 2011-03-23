@@ -1,0 +1,17 @@
+<rss version="2.0">
+<channel>
+    <title>Wormhole X-Treme</title>
+    <link>https://github.com/Wormhole-X-Treme/Wormhole-X-Treme/</link>
+    <description>
+        Wormhole X-Treme! Wormholes as travel portals. Splash Effect, IDC, Iris, configurable Wormhole materials, and much much more.
+    </description>
+    <item>
+        <title>WormholeXTreme</title>
+        <description>0.801</description>
+        <guid>com.wormhole_xtreme</guid>
+        <pubDate>Tues, 15 Mar 2011 22:36:00 +0800</pubDate>
+        <link>https://github.com/downloads/Wormhole-X-Treme/Wormhole-X-Treme/WormholeXTreme-0.801-package.zip</link>
+    </item>
+</channel>
+<style/>
+</rss>
