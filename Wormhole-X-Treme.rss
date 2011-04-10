@@ -7,6 +7,13 @@
     </description>
     <item>
         <title>WormholeXTreme</title>
+        <description>0.833</description>
+        <guid>com.wormhole_xtreme.wormhole</guid>
+        <pubDate>Sat, 09 Apr 2011 23:36:00 -0700</pubDate>
+        <link>https://github.com/downloads/Wormhole-X-Treme/Wormhole-X-Treme/WormholeXTreme-0.833-package.zip</link>
+    </item> 
+    <item>
+        <title>WormholeXTreme</title>
         <description>0.832</description>
         <guid>com.wormhole_xtreme.wormhole</guid>
         <pubDate>Mon, 05 Apr 2011 15:14:00 -0700</pubDate>
