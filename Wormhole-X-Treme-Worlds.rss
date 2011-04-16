@@ -1,0 +1,17 @@
+<rss version="2.0">
+<channel>
+    <title>Wormhole X-Treme Worlds</title>
+    <link>https://github.com/Wormhole-X-Treme/Wormhole-X-Treme-Worlds/</link>
+    <description>
+        Wormhole X-Treme Worlds! The Wormhole X-Treme multi-world management plugin for Bukkit.
+    </description>
+    <item>
+        <title>WormholeXTremeWorlds</title>
+        <description>0.1</description>
+        <guid>com.wormhole_xtreme.worlds</guid>
+        <pubDate>Sat, 16 Apr 2011 06:51:00 -0700</pubDate>
+        <link>https://github.com/downloads/Wormhole-X-Treme/Wormhole-X-Treme-Worlds/WormholeXTremeWorlds-0.1-package.zip</link>
+    </item> 
+</channel>
+<style/>
+</rss>
