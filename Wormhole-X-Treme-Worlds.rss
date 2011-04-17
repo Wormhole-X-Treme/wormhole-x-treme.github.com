@@ -7,11 +7,18 @@
     </description>
     <item>
         <title>WormholeXTremeWorlds</title>
+        <description>0.1.1</description>
+        <guid>com.wormhole_xtreme.worlds</guid>
+        <pubDate>Sat, 17 Apr 2011 07:15:00 -0700</pubDate>
+        <link>https://github.com/downloads/Wormhole-X-Treme/Wormhole-X-Treme-Worlds/WormholeXTremeWorlds-0.1.1-package.zip</link>
+    </item>
+    <item>
+        <title>WormholeXTremeWorlds</title>
         <description>0.1</description>
         <guid>com.wormhole_xtreme.worlds</guid>
         <pubDate>Sat, 16 Apr 2011 06:51:00 -0700</pubDate>
         <link>https://github.com/downloads/Wormhole-X-Treme/Wormhole-X-Treme-Worlds/WormholeXTremeWorlds-0.1-package.zip</link>
-    </item> 
+    </item>
 </channel>
 <style/>
 </rss>
